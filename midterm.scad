@@ -1,0 +1,3 @@
+difference(){
+    import("midterm.stl");
+}
